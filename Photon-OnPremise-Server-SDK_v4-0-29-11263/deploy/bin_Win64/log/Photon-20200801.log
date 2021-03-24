@@ -1,0 +1,91 @@
+18732: 11:10:05.099 - ---
+18732: 11:10:05.099 - Service: "Photon Socket Server" starting
+18732: 11:10:05.099 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+18732: 11:10:05.100 - Will produce at most: 10 crash dumps
+18732: 11:10:05.100 - MessageBox: Photon Socket Server - 4.0.28.2962
+
+Usage: PhotonSocketServer.exe  Followed by the following command line options.
+  /help		Display this list.
+  /noMessages	Must be first. Do not display status messages.
+  /install name	Installs an instance of the service named 'name'.
+  /installCounters	Installs performance counters for this service.
+  /remove name	Removes the instance of the service named 'name'.
+  /removeCounters	Removes performance counters for this service.
+  /run name   	Runs the service as a normal process for debugging.
+  /stop         	Request all instances of Photon to shutdown and exit.
+  /stop1 name	Request instance 'name' of Photon shutdown and exit.
+  /configPath path	Use the supplied path to locate the config file.
+  /config file	Use the supplied config file.
+
+Note that /config and /configFile can be used with /install and /run
+
+Note that only /noMessages can be combined with all other command line options.
+
+18732: 11:10:07.133 - Service shutting down: commandline option error. Errorcode: 255
+18732: 11:10:07.134 - Service shut down complete
+19256: 12:25:51.766 - ---
+19256: 12:25:51.766 - Service: "Photon Socket Server" starting
+19256: 12:25:51.766 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+19256: 12:25:51.767 - Will produce at most: 10 crash dumps
+19256: 12:25:51.767 - Service shutting down
+19256: 12:25:51.768 - Service shut down complete
+14296: 12:28:24.369 - ---
+14296: 12:28:24.369 - Service: "Photon Socket Server" starting
+14296: 12:28:24.369 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+14296: 12:28:24.370 - Will produce at most: 10 crash dumps
+14296: 12:28:24.370 - Service shutting down
+14296: 12:28:24.371 - Service shut down complete
+16324: 12:31:12.763 - ---
+16324: 12:31:12.763 - Service: "Photon Socket Server" starting
+16324: 12:31:12.763 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+16324: 12:31:12.764 - Will produce at most: 10 crash dumps
+16324: 12:31:12.764 - Service shutting down
+16324: 12:31:12.765 - Service shut down complete
+16656: 12:31:40.181 - ---
+16656: 12:31:40.181 - Service: "Photon Socket Server" starting
+16656: 12:31:40.181 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+16656: 12:31:40.182 - Will produce at most: 10 crash dumps
+16656: 12:31:40.182 - Service shutting down
+16656: 12:31:40.183 - Service shut down complete
+22272: 12:45:27.128 - ---
+22272: 12:45:27.128 - Service: "Photon Socket Server" starting
+22272: 12:45:27.128 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+22272: 12:45:27.130 - Will produce at most: 10 crash dumps
+22272: 12:45:27.130 - Service shutting down
+22272: 12:45:27.130 - Service shut down complete
+12036: 13:05:28.147 - ---
+12036: 13:05:28.147 - Service: "Photon Socket Server" starting
+12036: 13:05:28.147 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+12036: 13:05:28.148 - Will produce at most: 10 crash dumps
+12036: 13:05:28.148 - Service shutting down
+12036: 13:05:28.149 - Service shut down complete
+10044: 13:14:06.007 - ---
+10044: 13:14:06.007 - Service: "Photon Socket Server" starting
+10044: 13:14:06.007 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+10044: 13:14:06.008 - Will produce at most: 10 crash dumps
+10044: 13:14:06.009 - Service shutting down
+10044: 13:14:06.010 - Service shut down complete
+14896: 13:14:48.109 - ---
+14896: 13:14:48.109 - Service: "Photon Socket Server" starting
+14896: 13:14:48.109 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+14896: 13:14:48.110 - Will produce at most: 10 crash dumps
+14896: 13:14:48.111 - Service shutting down
+14896: 13:14:48.112 - Service shut down complete
+23352: 14:09:10.957 - ---
+23352: 14:09:10.957 - Service: "Photon Socket Server" starting
+23352: 14:09:10.957 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+23352: 14:09:10.959 - Will produce at most: 10 crash dumps
+23352: 14:09:10.959 - Service shutting down
+23352: 14:09:10.961 - Service shut down complete
+24652: 14:14:23.982 - ---
+24652: 14:14:23.982 - Service: "Photon Socket Server" starting
+24652: 14:14:23.982 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+24652: 14:14:23.984 - Will produce at most: 10 crash dumps
+24652: 14:14:23.984 - Service shutting down
+24652: 14:14:23.985 - Service shut down complete
+20612: 14:19:31.532 - ---
+20612: 14:19:31.532 - Service: "Photon Socket Server" starting
+20612: 14:19:31.532 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+20612: 14:19:31.533 - Will produce at most: 10 crash dumps
+20612: 14:19:31.534 - Service shutting down
+20612: 14:19:31.535 - Service shut down complete

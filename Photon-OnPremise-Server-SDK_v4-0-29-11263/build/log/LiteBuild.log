@@ -1,0 +1,133 @@
+__________________________________________________
+Project E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\build\deploy.proj (BuildAndCopyForDeploydoel(en=):
+
+- - Clean solution: ..\src-server\Lite\Lite.sln at slnpath ..\src-server at rootpath Lite
+- - Delete output path: ..\src-server\Lite\Lite\bin
+- - Building Solution: ..\src-server\Lite\Lite.sln
+- - Configuration: Debug
+__________________________________________________
+Project E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\build\deploy.proj bouwt E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.sln op (standaarddoelen):
+
+__________________________________________________
+Project E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.sln bouwt E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\MyApplication\MyApplication.csproj op (standaarddoelen):
+
+__________________________________________________
+Project E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\MyApplication\MyApplication.csproj bouwt E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite\Lite.csproj op (standaarddoelen):
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /errorreport:prompt /warn:4 /define:DEBUG;TRACE /highentropyva- /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\ExitGames.Logging.Log4Net.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\ExitGamesLibs.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\log4net.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\Photon.SocketServer.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\PhotonHostRuntimeInterfaces.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\Lite.dll /target:library /utf8output Actor.cs ActorGroup.cs Caching\EventCache.cs Caching\EventCacheDictionary.cs Caching\LiteGameCache.cs Caching\RoomCacheBase.cs Caching\RoomEventCache.cs Caching\RoomReference.cs Common\Property.cs Common\PropertyBag.cs Common\PropertyChangedEventArgs.cs Diagnostics\OperationLogging\LogEntry.cs Diagnostics\OperationLogging\LogQueue.cs Events\PropertiesChangedEvent.cs LiteApplication.cs LiteGame.cs Diagnostics\CounterLogger.cs LitePeer.cs Events\LiteEventBase.cs Messages\IMessage.cs Messages\RoomMessage.cs Operations\CacheOperation.cs Operations\ChangeGroups.cs Operations\EventCode.cs Operations\GetPropertiesRequest.cs Operations\GetPropertiesResponse.cs Operations\JoinResponse.cs Operations\OperationCode.cs Operations\ParameterKey.cs Operations\JoinRequest.cs Operations\LeaveRequest.cs Operations\RaiseEventRequest.cs Operations\PropertyType.cs Events\CustomEvent.cs Events\JoinEvent.cs Events\LeaveEvent.cs Messages\GameMessageCodes.cs Diagnostics\Counter.cs Operations\ReceiverGroup.cs Operations\SetPropertiesRequest.cs Properties\AssemblyInfo.cs Room.cs ActorCollection.cs
+Lite -> E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite\bin\Lite.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /errorreport:prompt /warn:4 /define:DEBUG;TRACE /highentropyva- /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\ExitGamesLibs.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite\bin\Lite.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\log4net.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\Photon.SocketServer.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\PhotonHostRuntimeInterfaces.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.DataSetExtensions.dll" /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll" /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\MyApplication.dll /target:library /utf8output MyApplication.cs MyGame.cs MyGameCache.cs MyPeer.cs Operations\MyEchoResponse.cs Operations\MyGameRequest.cs Operations\MyEchoRequest.cs Operations\Enums.cs Operations\MyGameResponse.cs Properties\AssemblyInfo.cs
+MyApplication -> E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\MyApplication\bin\MyApplication.dll
+__________________________________________________
+Project E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.sln bouwt E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.NUnit\Lite.Tests.csproj op (standaarddoelen):
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /errorreport:prompt /warn:4 /define:DEBUG;TRACE /highentropyva- /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\ExitGames.Logging.Log4Net.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\ExitGamesLibs.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite\bin\Lite.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\log4net.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\nunit.framework.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\Photon.SocketServer.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\Photon3DotNet.dll /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\PhotonHostRuntimeInterfaces.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Configuration.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /debug+ /debug:full /optimize- /out:obj\Debug\Lite.Tests.dll /target:library /utf8output Client\LitePeer.cs Client\TestClient.cs Disconnected\BasicUseCases.cs Disconnected\DummyApplicationSink.cs Disconnected\DummyPeer.cs Disconnected\TestLitePeer.cs LogHelper.cs Properties\AssemblyInfo.cs ServerToServerTests.cs Settings.cs SetupFixture.cs TcpPerformanceTests.cs TcpTests.cs TcpTestsBase.cs
+Lite.Tests -> E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.NUnit\bin\Debug\Lite.Tests.dll
+__________________________________________________
+Project E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.sln bouwt E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.TestConsole\Lite.TestConsole.csproj op (standaarddoelen):
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /errorreport:prompt /warn:4 /define:DEBUG;TRACE /highentropyva- /reference:E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.NUnit\bin\Debug\Lite.Tests.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.DataSetExtensions.dll" /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll" /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\Lite.TestConsole.exe /target:exe /utf8output Program.cs Properties\AssemblyInfo.cs
+Lite.TestConsole -> E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.TestConsole\bin\Debug\Lite.TestConsole.exe
+- - rebuild ..\src-server\Lite\Lite.sln finished.
+Copy for deploy: ..\src-server\Lite\Lite\ (assets\** and bin\**)
+Remove ..\deploy\Lite
+>>> COPY for server deploy completed.
+
+Samenvatting projectprestaties:
+      334 ms E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.NUnit\Lite.Tests.csproj   6 aanroepen
+      483 ms E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.TestConsole\Lite.TestConsole.csproj   2 aanroepen
+      549 ms E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite\Lite.csproj  10 aanroepen
+      777 ms E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\MyApplication\MyApplication.csproj   2 aanroepen
+     1666 ms E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Lite\Lite.sln   2 aanroepen
+     2066 ms E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\build\deploy.proj   1 aanroepen
+
+Samenvatting doelprestaties:
+        * ms Clean                                      1 aanroepen
+        * ms CleanReferencedProjects                    1 aanroepen
+        * ms Build                                      1 aanroepen
+        * ms ResolveProjectReferences                   1 aanroepen
+        0 ms FileClassification                         4 aanroepen
+        0 ms AfterResGen                                4 aanroepen
+        0 ms AfterCompile                               4 aanroepen
+        0 ms AfterCompileWinFX                          4 aanroepen
+        0 ms ValidateToolsVersions                      2 aanroepen
+        0 ms _GenerateSatelliteAssemblyInputs           4 aanroepen
+        0 ms Compile                                    4 aanroepen
+        0 ms PrepareResourceNames                       4 aanroepen
+        0 ms CreateCustomManifestResourceNames          4 aanroepen
+        0 ms _CheckForCompileOutputs                    4 aanroepen
+        0 ms BeforeResGen                               4 aanroepen
+        0 ms AfterClean                                 4 aanroepen
+        0 ms SetWin32ManifestProperties                 4 aanroepen
+        0 ms PrepareResources                           4 aanroepen
+        0 ms AfterMarkupCompilePass1                    4 aanroepen
+        0 ms _CopySourceItemsToOutputDirectory          4 aanroepen
+        0 ms ResolveReferences                          4 aanroepen
+        0 ms CoreBuild                                  4 aanroepen
+        0 ms AfterBuild                                 4 aanroepen
+        0 ms CreateSatelliteAssemblies                  4 aanroepen
+        0 ms CleanPublishFolder                         4 aanroepen
+        0 ms BeforeResolveReferences                    4 aanroepen
+        0 ms BeforeCompile                              4 aanroepen
+        0 ms ResolveSDKReferences                       4 aanroepen
+        0 ms _SetTargetFrameworkMonikerAttribute        4 aanroepen
+        0 ms ValidateProjects                           2 aanroepen
+        0 ms _AfterCompileWinFXInternal                 4 aanroepen
+        0 ms BuildOnlySettings                          4 aanroepen
+        0 ms ExpandSDKReferences                        4 aanroepen
+        0 ms PrepareForRun                              4 aanroepen
+        0 ms BeforeClean                                4 aanroepen
+        0 ms _GenerateCompileInputs                     4 aanroepen
+        0 ms GetTargetPath                              4 aanroepen
+        0 ms GetInstalledSDKLocations                   4 aanroepen
+        0 ms BeforeBuild                                4 aanroepen
+        0 ms AfterResolveReferences                     4 aanroepen
+        0 ms ResGen                                     4 aanroepen
+        1 ms GetNativeManifest                          2 aanroepen
+        1 ms _SetEmbeddedWin32ManifestProperties        4 aanroepen
+        1 ms GetFrameworkPaths                          4 aanroepen
+        1 ms _SplitProjectReferencesByFileExistence     4 aanroepen
+        2 ms SplitResourcesByCulture                    4 aanroepen
+        2 ms AssignTargetPaths                          4 aanroepen
+        2 ms PrepareForBuild                            4 aanroepen
+        3 ms IncrementalClean                           4 aanroepen
+        3 ms _CleanGetCurrentAndPriorFileWrites         4 aanroepen
+        5 ms GetCopyToOutputDirectoryItems              4 aanroepen
+        5 ms _CopyOutOfDateSourceItemsToOutputDirectoryAlways   2 aanroepen
+        7 ms ValidateSolutionConfiguration              2 aanroepen
+        9 ms CoreResGen                                 4 aanroepen
+        9 ms _CopyAppConfigFile                         3 aanroepen
+       11 ms _CheckForInvalidConfigurationAndPlatform   4 aanroepen
+       11 ms GetReferenceAssemblyPaths                  4 aanroepen
+       12 ms AssignProjectConfiguration                 4 aanroepen
+       13 ms _CopyOutOfDateSourceItemsToOutputDirectory   4 aanroepen
+       24 ms CoreClean                                  4 aanroepen
+      123 ms CopyFilesToOutputDirectory                 4 aanroepen
+      134 ms BuildAndCopyForDeploy                      1 aanroepen
+      153 ms _CopyFilesMarkedCopyLocal                  4 aanroepen
+      503 ms CoreCompile                                4 aanroepen
+      648 ms ResolveAssemblyReferences                  4 aanroepen
+        (* = timing is niet geregistreerd vanwege herintreding)
+
+Samenvatting taakprestaties:
+        * ms MSBuild                                    1 aanroepen
+        0 ms RemoveDuplicates                          12 aanroepen
+        0 ms AssignTargetPath                          20 aanroepen
+        1 ms AssignCulture                              4 aanroepen
+        1 ms GetFrameworkPath                           4 aanroepen
+        1 ms ConvertToAbsolutePath                      4 aanroepen
+        1 ms FindAppConfigFile                          4 aanroepen
+        2 ms Delete                                    12 aanroepen
+        3 ms WriteLinesToFile                           8 aanroepen
+        3 ms ReadLinesFromFile                          8 aanroepen
+        4 ms MakeDir                                    8 aanroepen
+        4 ms RemoveDir                                  2 aanroepen
+        7 ms AssignProjectConfiguration                 4 aanroepen
+        8 ms CreateItem                                 2 aanroepen
+        9 ms FindUnderPath                             28 aanroepen
+       10 ms GetReferenceAssemblyPaths                  4 aanroepen
+       33 ms Message                                   25 aanroepen
+      408 ms Copy                                      23 aanroepen
+      499 ms Csc                                        4 aanroepen
+      645 ms ResolveAssemblyReference                   4 aanroepen
+        (* = timing is niet geregistreerd vanwege herintreding)

@@ -1,0 +1,16 @@
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.UnitTest.Utils.dll
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.UnitTest.Utils.pdb
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\ExitGamesLibs.dll
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\nunit.framework.dll
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.SocketServer.dll
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon3DotNet.dll
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\PhotonHostRuntimeInterfaces.dll
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\websocket-sharp.dll
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\ExitGamesLibs.pdb
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\ExitGamesLibs.xml
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.SocketServer.pdb
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.SocketServer.xml
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon3DotNet.pdb
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon3DotNet.xml
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\obj\Debug\Photon.UnitTest.Utils.dll
+E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\obj\Debug\Photon.UnitTest.Utils.pdb

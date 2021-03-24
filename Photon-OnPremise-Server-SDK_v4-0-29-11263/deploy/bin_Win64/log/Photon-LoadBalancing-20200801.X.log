@@ -1,0 +1,25 @@
+24372: 12:16:10.151 - ---
+24372: 12:16:10.151 - Service: "Photon Socket Server" starting
+24372: 12:16:10.151 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+24372: 12:16:10.153 - Will produce at most: 10 crash dumps
+24372: 12:16:10.153 - Action: remove service
+24372: 12:16:10.154 - Service: "Photon Socket Server: LoadBalancing" removed
+24372: 12:16:10.154 - MessageBox: Photon Socket Server: LoadBalancing - 4.0.28.2962
+
+Service removed
+
+Instance Name = "LoadBalancing"
+24372: 12:16:12.017 - Service shutting down
+24372: 12:16:12.019 - Service shut down complete
+3932: 12:16:17.344 - ---
+3932: 12:16:17.344 - Service: "Photon Socket Server" starting
+3932: 12:16:17.344 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+3932: 12:16:17.345 - Will produce at most: 10 crash dumps
+3932: 12:16:17.345 - Action: remove service
+3932: 12:16:17.347 - MessageBox: Photon Socket Server: LoadBalancing - 4.0.28.2962
+
+Exception: 
+CService::RemoveService() - DeleteService
+De opgegeven service is voor verwijdering gemarkeerd.
+3932: 12:16:21.331 - Service shutting down: with Exception. Errorcode: 5
+3932: 12:16:21.332 - Service shut down complete

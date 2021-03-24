@@ -1,0 +1,68 @@
+3704: 19:26:07.108 - ---
+3704: 19:26:07.108 - Service: "Photon Socket Server" starting
+3704: 19:26:07.108 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+3704: 19:26:07.109 - Will produce at most: 10 crash dumps
+3704: 19:26:07.109 - Action: run as exe
+3704: 19:26:07.109 - 
+3704: 19:26:07.109 - ERROR: ***************************************************************
+3704: 19:26:07.109 - ERROR: You can NOT run this instance, "LoadBalancing", as an exe as it is already installed as a service.
+3704: 19:26:07.109 - ERROR: ***************************************************************
+3704: 19:26:07.109 - 
+3704: 19:26:07.109 - MessageBox: Photon Socket Server: LoadBalancing - 4.0.28.2962
+
+You can NOT run this instance, "LoadBalancing", as an exe as it is already installed as a service.
+3704: 19:26:08.397 - Service shutting down: can't run as exe instance is already installed as service. Errorcode: 101
+3704: 19:26:08.398 - Service shut down complete
+14784: 20:12:11.970 - ---
+14784: 20:12:11.970 - Service: "Photon Socket Server" starting
+14784: 20:12:11.970 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+14784: 20:12:11.971 - Will produce at most: 10 crash dumps
+14784: 20:12:11.971 - Action: remove service
+14784: 20:12:11.972 - Service: "Photon Socket Server: LoadBalancing" removed
+14784: 20:12:11.972 - MessageBox: Photon Socket Server: LoadBalancing - 4.0.28.2962
+
+Service removed
+
+Instance Name = "LoadBalancing"
+14784: 20:12:12.981 - Service shutting down
+14784: 20:12:12.983 - Service shut down complete
+11692: 20:12:22.254 - ---
+11692: 20:12:22.254 - Service: "Photon Socket Server" starting
+11692: 20:12:22.254 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+11692: 20:12:22.255 - Will produce at most: 10 crash dumps
+11692: 20:12:22.255 - Action: run as exe
+11692: 20:12:22.255 - 
+11692: 20:12:22.255 - ERROR: ***************************************************************
+11692: 20:12:22.255 - ERROR: You can NOT run this instance, "LoadBalancing", as an exe as it is already installed as a service.
+11692: 20:12:22.255 - ERROR: ***************************************************************
+11692: 20:12:22.255 - 
+11692: 20:12:22.255 - MessageBox: Photon Socket Server: LoadBalancing - 4.0.28.2962
+
+You can NOT run this instance, "LoadBalancing", as an exe as it is already installed as a service.
+11692: 20:12:27.060 - Service shutting down: can't run as exe instance is already installed as service. Errorcode: 101
+11692: 20:12:27.061 - Service shut down complete
+9508: 20:21:11.285 - ---
+9508: 20:21:11.285 - Service: "Photon Socket Server" starting
+9508: 20:21:11.285 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+9508: 20:21:11.287 - Will produce at most: 10 crash dumps
+9508: 20:21:11.287 - Action: remove service
+9508: 20:21:11.288 - Service: "Photon Socket Server: LoadBalancing" removed
+9508: 20:21:11.288 - MessageBox: Photon Socket Server: LoadBalancing - 4.0.28.2962
+
+Service removed
+
+Instance Name = "LoadBalancing"
+9508: 20:21:12.446 - Service shutting down
+9508: 20:21:12.447 - Service shut down complete
+21344: 20:21:26.505 - ---
+21344: 20:21:26.505 - Service: "Photon Socket Server" starting
+21344: 20:21:26.505 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+21344: 20:21:26.506 - Will produce at most: 10 crash dumps
+21344: 20:21:26.506 - Action: remove service
+21344: 20:21:26.508 - MessageBox: Photon Socket Server: LoadBalancing - 4.0.28.2962
+
+Exception: 
+CService::RemoveService() - DeleteService
+De opgegeven service is voor verwijdering gemarkeerd.
+21344: 20:21:29.846 - Service shutting down: with Exception. Errorcode: 5
+21344: 20:21:29.847 - Service shut down complete

@@ -1,0 +1,13 @@
+31884: 14:49:36.837 - ---
+31884: 14:49:36.837 - Service: "Photon Socket Server" starting
+31884: 14:49:36.837 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+31884: 14:49:36.838 - Will produce at most: 10 crash dumps
+31884: 14:49:36.838 - Action: remove service
+31884: 14:49:36.839 - Service: "Photon Socket Server: LoadBalancing" removed
+31884: 14:49:36.839 - MessageBox: Photon Socket Server: LoadBalancing - 4.0.28.2962
+
+Service removed
+
+Instance Name = "LoadBalancing"
+31884: 14:49:37.923 - Service shutting down
+31884: 14:49:37.924 - Service shut down complete

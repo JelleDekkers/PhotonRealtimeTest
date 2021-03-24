@@ -1,0 +1,86 @@
+16432: 10:49:57.918 - ---
+16432: 10:49:57.918 - Service: "Photon Socket Server" starting
+16432: 10:49:57.918 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+16432: 10:49:57.920 - Will produce at most: 10 crash dumps
+16432: 10:49:57.920 - Service shutting down
+16432: 10:49:57.922 - Service shut down complete
+19660: 11:05:22.659 - ---
+19660: 11:05:22.659 - Service: "Photon Socket Server" starting
+19660: 11:05:22.659 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+19660: 11:05:22.660 - Will produce at most: 10 crash dumps
+19660: 11:05:22.660 - Service shutting down
+19660: 11:05:22.661 - Service shut down complete
+20592: 11:40:32.485 - ---
+20592: 11:40:32.485 - Service: "Photon Socket Server" starting
+20592: 11:40:32.485 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+20592: 11:40:32.486 - Will produce at most: 10 crash dumps
+20592: 11:40:32.486 - Service shutting down
+20592: 11:40:32.488 - Service shut down complete
+23396: 12:14:19.447 - ---
+23396: 12:14:19.447 - Service: "Photon Socket Server" starting
+23396: 12:14:19.447 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+23396: 12:14:19.449 - Will produce at most: 10 crash dumps
+23396: 12:14:19.449 - Service shutting down
+23396: 12:14:19.450 - Service shut down complete
+1104: 12:34:02.003 - ---
+1104: 12:34:02.003 - Service: "Photon Socket Server" starting
+1104: 12:34:02.003 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+1104: 12:34:02.005 - Will produce at most: 10 crash dumps
+1104: 12:34:02.005 - Service shutting down
+1104: 12:34:02.006 - Service shut down complete
+26072: 15:22:33.989 - ---
+26072: 15:22:33.989 - Service: "Photon Socket Server" starting
+26072: 15:22:33.989 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+26072: 15:22:33.990 - Will produce at most: 10 crash dumps
+26072: 15:22:33.990 - MessageBox: Photon Socket Server - 4.0.28.2962
+
+Usage: PhotonSocketServer.exe  Followed by the following command line options.
+  /help		Display this list.
+  /noMessages	Must be first. Do not display status messages.
+  /install name	Installs an instance of the service named 'name'.
+  /installCounters	Installs performance counters for this service.
+  /remove name	Removes the instance of the service named 'name'.
+  /removeCounters	Removes performance counters for this service.
+  /run name   	Runs the service as a normal process for debugging.
+  /stop         	Request all instances of Photon to shutdown and exit.
+  /stop1 name	Request instance 'name' of Photon shutdown and exit.
+  /configPath path	Use the supplied path to locate the config file.
+  /config file	Use the supplied config file.
+
+Note that /config and /configFile can be used with /install and /run
+
+Note that only /noMessages can be combined with all other command line options.
+
+26072: 15:22:43.973 - Service shutting down: commandline option error. Errorcode: 255
+26072: 15:22:43.974 - Service shut down complete
+10256: 15:36:40.730 - ---
+10256: 15:36:40.730 - Service: "Photon Socket Server" starting
+10256: 15:36:40.730 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+10256: 15:36:40.731 - Will produce at most: 10 crash dumps
+10256: 15:36:40.731 - MessageBox: Photon Socket Server - 4.0.28.2962
+
+Usage: PhotonSocketServer.exe  Followed by the following command line options.
+  /help		Display this list.
+  /noMessages	Must be first. Do not display status messages.
+  /install name	Installs an instance of the service named 'name'.
+  /installCounters	Installs performance counters for this service.
+  /remove name	Removes the instance of the service named 'name'.
+  /removeCounters	Removes performance counters for this service.
+  /run name   	Runs the service as a normal process for debugging.
+  /stop         	Request all instances of Photon to shutdown and exit.
+  /stop1 name	Request instance 'name' of Photon shutdown and exit.
+  /configPath path	Use the supplied path to locate the config file.
+  /config file	Use the supplied config file.
+
+Note that /config and /configFile can be used with /install and /run
+
+Note that only /noMessages can be combined with all other command line options.
+
+10256: 15:36:41.596 - Service shutting down: commandline option error. Errorcode: 255
+10256: 15:36:41.597 - Service shut down complete
+27292: 15:42:48.387 - ---
+27292: 15:42:48.387 - Service: "Photon Socket Server" starting
+27292: 15:42:48.387 - Config File: E:\thema\Documents\Werk\Quest_LBVR\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+27292: 15:42:48.389 - Will produce at most: 10 crash dumps
+27292: 15:42:48.389 - Service shutting down
+27292: 15:42:48.390 - Service shut down complete
