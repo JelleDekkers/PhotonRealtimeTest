@@ -70,7 +70,7 @@ public class NetworkTest : MonoBehaviour, IConnectionCallbacks, IMatchmakingCall
     public void StartClient()
     {
         client.StateChanged += OnStateChange;
-        client.UserId = "123";
+		client.UserId = SystemInfo.deviceUniqueIdentifier;
         AppSettings settings = new AppSettings();
         settings.NetworkLogging = ExitGames.Client.Photon.DebugLevel.ALL;
         //settings.AppIdRealtime = appID;
@@ -90,6 +90,7 @@ public class NetworkTest : MonoBehaviour, IConnectionCallbacks, IMatchmakingCall
 
     private void CreateRoom(string roomName)
     {
+		Debug.Log("creating room: " + roomName);
         EnterRoomParams roomParams = new EnterRoomParams();
         roomParams.RoomName = roomName;
         roomParams.RoomOptions = new RoomOptions();
@@ -98,6 +99,7 @@ public class NetworkTest : MonoBehaviour, IConnectionCallbacks, IMatchmakingCall
 
     private void JoinRoom(string roomName)
     {
+		Debug.Log("attempting to join room: " + roomName);
         EnterRoomParams roomParams = new EnterRoomParams();
         roomParams.RoomName = roomName;
         client.OpJoinRoom(roomParams);
@@ -155,7 +157,7 @@ public class NetworkTest : MonoBehaviour, IConnectionCallbacks, IMatchmakingCall
 
     public void OnJoinRoomFailed(short returnCode, string message)
     {
-        Debug.Log("OnJoinRoomFailed");
+        Debug.Log("OnJoinRoomFailed " + message + "returnCode: " + returnCode);
     }
 
     public void OnJoinRandomFailed(short returnCode, string message)
