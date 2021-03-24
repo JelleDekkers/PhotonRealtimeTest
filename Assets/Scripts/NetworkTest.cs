@@ -21,7 +21,7 @@ public class NetworkTest : MonoBehaviour, IConnectionCallbacks, IMatchmakingCall
     {
         GUILayout.Label("isconnected: " + client.IsConnected);
         GUILayout.Label("isconnected and ready: " + client.IsConnectedAndReady);
-        if (client.IsConnected)
+        if (client.IsConnectedAndReady)
         {
             if (client.CurrentRoom != null)
             {
